@@ -1,5 +1,5 @@
 {
-  "name": "Expanse-Management-System",
+  "name": "Expense-Management-System",
   "version": "1.0.0",
   "description": "expanse tracker app",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\" "
   },
   "keywords": [],
-  "author": "Techinfoyt",
+  "author": "SAMIR",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
